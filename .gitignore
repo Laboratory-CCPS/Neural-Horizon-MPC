@@ -1,0 +1,19 @@
+**/__pycache__
+**/Temp
+**/*Results*/**
+**/.ipynb_checkpoints
+**/build
+
+c_generated_code/
+*.json
+*.zip
+*log*
+# *.html
+
+test.ipynb
+test.py
+
+!**/*Results*/PNGs/
+!**/*Results*/PNGs/**
+
+*.egg-info
