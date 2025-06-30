@@ -150,3 +150,7 @@ Note: needs to be done every newly opened terminal
         "env": {"LD_LIBRARY_PATH": "<full_acados_root>/lib", "ACADOS_SOURCE_DIR": "<full_acados_root>"} 
         ```
 
+### Acknowledgment
+The Code in this repository was produced as part of the KI-Embedded project of the German Federal Ministry of Economic Affairs and Climate Action (BMWK).
+The authors and maintainers acknowledge funding of the KI-Embedded project of the BMWK.
+
