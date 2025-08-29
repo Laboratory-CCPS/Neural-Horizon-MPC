@@ -2,7 +2,7 @@
 
 ## Description
 
-This is an open source project that implements neural horizon model predictive control with acados and compares it to the originally implemented CasADi versions, of the paper [Alsmeier, 2024](#). Furthermore, it includes iterative node pruning with the Lottery Ticket Hypothesis and Finetuning. 
+This is an open source project that implements neural horizon model predictive control with acados and compares it to the originally implemented CasADi versions, of the paper [Alsmeier, 2024](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10644452). Furthermore, it includes iterative node pruning with the Lottery Ticket Hypothesis and Finetuning. 
 
 The advantage of this project is, that it improves the ability for real time model predictive control with acados and neural horizon. Furthermore, the resulting generated solver can be exported as C code.
 
